@@ -1,4 +1,4 @@
-//Sensor temperatura y humedad: DHT22
+//Sensor temperatura y humedad: DHT11
 
 //Librerias
 #include <Wire.h>
