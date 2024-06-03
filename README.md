@@ -2,6 +2,8 @@
 ## Repositorio para Actividad 2 Equipos e Instrumentación
 #### En esta actividad se propone el desarrollo de un sistema de control de temperatura e iluminación. 
 
+#Link proyecto WOKWI https://wokwi.com/projects/398941635078214657
+#Link proyecto GITHUB https://github.com/martaybelen/EquiposAct2.git
 ### Poyecto de partida:
 #### Se parte del proyecto realizado en la actividad anterior que cuenta con un sistema de 4 modos:
 |Modos|Funcionalidad|
