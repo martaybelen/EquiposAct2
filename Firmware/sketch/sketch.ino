@@ -10,7 +10,7 @@
 
 //----------------DHT----------------//
 //Pines sensor DHT
-#define DHTTYPE DHT22
+#define DHTTYPE DHT11
 #define DHTPIN 3  //Definición del pin como entrada del sensor DHT
 DHT dht(DHTPIN, DHTTYPE); //inicializa el sensor DHT
 //Se definen temperatura y humedad para almacenar lo medido por el sensor
